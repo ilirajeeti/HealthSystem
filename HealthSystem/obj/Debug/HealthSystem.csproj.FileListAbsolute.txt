@@ -1,0 +1,7 @@
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.csproj.AssemblyReference.cache
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.Form1.resources
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.Properties.Resources.resources
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.csproj.GenerateResource.cache
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.exe.licenses
+C:\Users\thisi\source\repos\HealthSystem\HealthSystem\obj\Debug\HealthSystem.csproj.CoreCompileInputs.cache
